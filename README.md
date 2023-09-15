@@ -6,7 +6,7 @@ I have also implemented firmware (C lang) that controls this Cartesian Manipulat
 So the stack looks like this: <br/>
 [TwitchMicroscope](https://github.com/mateuszbugaj/TwitchMicroscope) >> [CartesianManipulator](https://github.com/mateuszbugaj/CartesianManipulator) >> [A4988Controller](https://github.com/mateuszbugaj/A4988Controller) >> [HALibrary](https://github.com/mateuszbugaj/HALibrary) <br/>
 
-[LSEDDemo2.webm](https://github.com/mateuszbugaj/mateuszbugaj/assets/38944068/e8b3b612-b72d-403c-9128-2155d3e22968)
+[LSEDDemo.webm](https://github.com/mateuszbugaj/mateuszbugaj/assets/38944068/e8b3b612-b72d-403c-9128-2155d3e22968)
 
 ## [GenericI2C](https://github.com/mateuszbugaj/GenericI2C)
 This is a bit banged implementation of the I2C protocol developed and tested on the AVR microcontroller. <br/>
