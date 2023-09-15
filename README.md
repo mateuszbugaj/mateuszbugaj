@@ -1,7 +1,7 @@
 I've got a couple of projects mostly for learning purposes, but you might want to check out these ones:
 
 ## [TwitchMicroscope](https://github.com/mateuszbugaj/TwitchMicroscope)
-It is a (Java) chatbot that allows the control of a [Cartesian Manipulator](https://github.com/mateuszbugaj/CartesianManipulator) (with a real microscope) securely and easily using user-defined commands. <br/>
+It is a (Java) chatbot that allows anyone to control an external device such as [Cartesian Manipulator](https://github.com/mateuszbugaj/CartesianManipulator) (with a real microscope) securely and easily via live-streaming platform Twitch.tv using user-defined commands. <br/>
 I have also implemented firmware (C lang) that controls this Cartesian Manipulator and a controller for stepper motors used in this Manipulator. <br/>
 So the stack looks like this: <br/>
 [TwitchMicroscope](https://github.com/mateuszbugaj/TwitchMicroscope) >> [CartesianManipulator](https://github.com/mateuszbugaj/CartesianManipulator) >> [A4988Controller](https://github.com/mateuszbugaj/A4988Controller) >> [HALibrary](https://github.com/mateuszbugaj/HALibrary) <br/>
