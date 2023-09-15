@@ -15,7 +15,7 @@ For fun, I made this simple but useful [logic analyzer](https://github.com/mateu
 
 ![SimpleLogicAnalyzer](https://github.com/mateuszbugaj/mateuszbugaj/assets/38944068/bdd4517c-70e0-428d-bb0e-c5b230258f5b)
 
-## Neural network stuff
+## Neural networks stuff
 ### [Position and rotation CNN](https://github.com/mateuszbugaj/Position_and_rotation_CNN)
 This is my system based on convolutional neural networks that learn how to estimate the relative position and rotation of 3D models from generated images.
 ### [Inverse Kinematics with AI](https://github.com/mateuszbugaj/Inverse-Kinematics-with-AI)
