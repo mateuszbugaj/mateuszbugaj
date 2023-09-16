@@ -11,7 +11,7 @@ So the stack looks like this: <br/>
 ## [GenericI2C](https://github.com/mateuszbugaj/GenericI2C)
 This is a bit banged implementation of the I2C protocol developed and tested on the AVR microcontroller. <br/>
 [GenericI2CDemo](https://github.com/mateuszbugaj/GenericI2CDemo) is another repository in which I use this library to communicate with a gyroscope, read values from the digital encoder, and connect two AVR microcontrollers as transmitter and receiver. <br/>
-For fun, I made this simple but useful [logic analyzer](https://github.com/mateuszbugaj/SimpleLogicAnalyzer) using Arduino to read signals and JavaFX as a desktop application to show them. <br/>
+For fun, I made this simple but useful [logic analyzer](https://github.com/mateuszbugaj/SimpleLogicAnalyzer) using Arduino to read signals and JavaFX for a desktop application to show them. <br/>
 
 ![SimpleLogicAnalyzer](https://github.com/mateuszbugaj/mateuszbugaj/assets/38944068/bdd4517c-70e0-428d-bb0e-c5b230258f5b)
 
